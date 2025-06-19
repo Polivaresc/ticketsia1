@@ -10,3 +10,5 @@ Responsive layout using Bootstrap grid.
 Use of Bootstrap components like buttons, forms, modals, and navigation.
 
 Basic styling and layout consistent with Bootstrap best practices.
+
+siteLink: 'https://polivaresc.github.io/ticketsia1/'
